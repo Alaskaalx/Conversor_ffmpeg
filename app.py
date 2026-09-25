@@ -12,7 +12,7 @@ class UtilityApp:
         self.root.geometry("550x350")
         
         
-        self.base_out_dir = r"C:\Users\alcan\Videos\ffmpg result"
+        self.base_out_dir = r"C:\Users\alcan\Videos\teste"
         
         
         self.notebook = ttk.Notebook(root)
