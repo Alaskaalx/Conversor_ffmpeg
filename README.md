@@ -1,3 +1,4 @@
+[documenta_o_do_projeto.md](https://github.com/user-attachments/files/32662831/documenta_o_do_projeto.md)
 Canivete Web - Edição de Mídia e Utilitários
 Uma aplicação web local desenvolvida em Node.js, Express e Bootstrap 5 que atua como um "Canivete Suíço" para manipulação de arquivos. Atualmente, o sistema conta com um módulo de edição de vídeo (corte e conversão) que utiliza o poder do FFmpeg rodando no backend, oferecendo pré-visualização em tempo real diretamente no navegador.
 Tecnologias Utilizadas
